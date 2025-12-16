@@ -96,7 +96,3 @@ The program displays:
 Contributions are welcome!
 Feel free to fork the repository, open issues, or submit pull requests.
 
----
-
-Just tell me 💫
-```
